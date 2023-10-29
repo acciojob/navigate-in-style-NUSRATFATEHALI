@@ -5,6 +5,8 @@ nav{
 }
 li{
 	display:inline;
-	list-style:none;
 	margin-right:1rem;
+}
+ol{
+	list-style:none;
 }
